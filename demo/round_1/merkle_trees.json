@@ -1,0 +1,44 @@
+{
+  "round_id": 1,
+  "participant_tree": {
+    "root": "966a9607c4b0b291e27a5d4ef4ca3c87156bcd8c462389d7498236d3bfc18c04",
+    "num_leaves": 3,
+    "proofs": {
+      "0": [
+        "139eea45c2b2068378e5eb555e48a41f2f192022be487363da1dcb0fd5cf0fb5",
+        "4ee57e0ab0e809abf097e165e17794962be9e57856f951f5d0c8589c7572d3c4"
+      ],
+      "1": [
+        "a252b73d552a4e09cc965db041fe4d25f8c621a5d377391399498388774cfafc",
+        "4ee57e0ab0e809abf097e165e17794962be9e57856f951f5d0c8589c7572d3c4"
+      ],
+      "2": [
+        "b97c4a95bca6efb7a81a50d4c72072880584ca53aed340174ce001b25d7caabd",
+        "311c92bb54ed52548067904afd3b50ad302a0dd785b17311c4a41c7792274a67"
+      ]
+    }
+  },
+  "gradient_hash_tree": {
+    "root": "0ca011b0aed5b48f74ac511c7e1bc97a6d8b520d934054db8b82c03b80549f6e",
+    "num_leaves": 3,
+    "leaf_hashes": [
+      "4fb236b0db6c8a2ad401b5f03f38854700e6f19b0292c2e5a026aafa505eff85",
+      "758826ac2634ff36ab7d39d4aabe4be97202299061db16cb46c8c7e75b60c2fd",
+      "b04c0d8058e5125335d9b297941b5cd47419a1efe4018057baf62dda6a86b695"
+    ],
+    "proofs": {
+      "0": [
+        "27e79fb9b079481610fac8f4916eb4f606c55850c0619e99700eb084de693eab",
+        "31a0e34e1447af776243feada87835abc529e421a363a7f285191cc9643a8598"
+      ],
+      "1": [
+        "6093bbfedd5bf2148ac63b13276443b681628d7ed40824e6c9378e15efc7742f",
+        "31a0e34e1447af776243feada87835abc529e421a363a7f285191cc9643a8598"
+      ],
+      "2": [
+        "3beaf95d819d257c331757014d359c1dcda0da71a3cdcc0ac46fa7ddb397bf20",
+        "2d3ec93444bb6baad855f158a915c3245f0e757ad631a7827f1b306ef22f7584"
+      ]
+    }
+  }
+}

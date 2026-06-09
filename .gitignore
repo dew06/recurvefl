@@ -1,0 +1,11 @@
+# Environments and secrets
+.env
+
+# Dependencies (uncomment the one you use)
+# node_modules/
+# __pycache__/
+# target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
